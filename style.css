@@ -1,0 +1,22 @@
+html {
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+.prof-box {
+  width: 700px;
+  height: 400px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  color: white;
+  text-align: left;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.icons {
+  font-size: 40px;
+}
