@@ -20,3 +20,9 @@ html {
 .icons {
   font-size: 50px;
 }
+
+.music-player{
+ position: absolute;
+ top: 80px;
+ right: 350px;
+}
